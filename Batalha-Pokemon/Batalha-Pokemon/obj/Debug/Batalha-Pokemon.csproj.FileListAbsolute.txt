@@ -1,0 +1,8 @@
+C:\Users\Dyego\Programação\Batalha-Pokemon\Batalha-Pokemon\Batalha-Pokemon\bin\Debug\Batalha-Pokemon.exe.config
+C:\Users\Dyego\Programação\Batalha-Pokemon\Batalha-Pokemon\Batalha-Pokemon\bin\Debug\Batalha-Pokemon.exe
+C:\Users\Dyego\Programação\Batalha-Pokemon\Batalha-Pokemon\Batalha-Pokemon\bin\Debug\Batalha-Pokemon.pdb
+C:\Users\Dyego\Programação\Batalha-Pokemon\Batalha-Pokemon\Batalha-Pokemon\obj\Debug\Batalha-Pokemon.csproj.AssemblyReference.cache
+C:\Users\Dyego\Programação\Batalha-Pokemon\Batalha-Pokemon\Batalha-Pokemon\obj\Debug\Batalha-Pokemon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dyego\Programação\Batalha-Pokemon\Batalha-Pokemon\Batalha-Pokemon\obj\Debug\Batalha-Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Dyego\Programação\Batalha-Pokemon\Batalha-Pokemon\Batalha-Pokemon\obj\Debug\Batalha-Pokemon.exe
+C:\Users\Dyego\Programação\Batalha-Pokemon\Batalha-Pokemon\Batalha-Pokemon\obj\Debug\Batalha-Pokemon.pdb
