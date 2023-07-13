@@ -10,6 +10,7 @@ namespace Batalha_Pokemon
     {
         static void Main(string[] args)
         {
+           
             Pokemon[] Pokebox = new Pokemon[]
             {
                 new Pokemon(1,"Venusaur", 364, 60, 90),
@@ -25,17 +26,32 @@ namespace Batalha_Pokemon
 
             Console.WriteLine("1-Venusaur\n2-Charizard\n3-Blastoise");
             opition = Convert.ToInt32(Console.ReadLine());
-
-            for(int i=0; i <= Pokebox.Length-1; i++)
+            for(int i=0; i<Pokebox.Length; i++)
             {
-
-                if (opition == Pokebox[i].codPokemon)
+                if(opition == Pokebox[i].codPokemon)
                 {
                     PokemonAtual = Pokebox[i];
                     break;
                 }
                     
             }
+
+            while(PokemonAtual.GetVidaPokemon() != 0)
+            {
+                Console.Clear();
+                Console.WriteLine("Escolha o seu movimento\n 1\n2 \n3 \n4");
+                opition= Convert.ToInt32(Console.ReadLine());
+
+                for( int i=0;i<MoveBox.Length; i++)
+                {
+                    if(opition == MoveBox[i].moveCod)
+
+                }
+            }
+
+            Console.WriteLine(PokemonAtual.nomePokemon);
+
+            
 
             
 
